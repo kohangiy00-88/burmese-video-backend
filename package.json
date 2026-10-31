@@ -1,9 +1,13 @@
 {
   "name": "burmese-video-backend",
   "version": "1.0.0",
-  "type": "module",
+  "description": "Video upload, audio extraction and Burmese TTS backend",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   },
   "dependencies": {
     "cors": "^2.8.5",
