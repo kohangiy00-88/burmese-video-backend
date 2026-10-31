@@ -1,7 +1,7 @@
 {
   "name": "burmese-video-backend",
   "version": "1.0.0",
-  "description": "Burmese Video Recap and Voiceover Backend",
+  "description": "Burmese Video Editor Backend",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
